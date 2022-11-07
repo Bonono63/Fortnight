@@ -20,9 +20,9 @@ bin-release/
 .minecraft/coremods
 .minecraft/crash-reports
 .minecraft/defaultconfigs
-.minecraft/logs
+.minecraft/logs/*
 .minecraft/resourcepacks
-.minecraft/saves
+.minecraft/saves/*
 .minecraft/schematics
 .minecraft/screenshots
 .minecraft/server-resource-packs
@@ -33,3 +33,6 @@ bin-release/
 .minecraft/server.dat_old
 .minecraft/usercache.json
 .minecraft/usernamecache.json
+.minecraft/logs/latest.log
+.minecraft/logs/debug.log
+*.log
