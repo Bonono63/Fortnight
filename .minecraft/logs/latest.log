@@ -467,3 +467,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [07Nov2022 15:59:22.419] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 146 advancements
 [07Nov2022 16:04:01.963] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 163 advancements
 [07Nov2022 16:05:09.667] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Porkey56 left the game
+[07Nov2022 16:07:51.220] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Porkey56 joined the game
+[07Nov2022 16:08:38.881] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Porkey56 has made the advancement [Sweet Dreams]
+[07Nov2022 16:09:38.343] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Porkey56 has made the advancement [Acquire Hardware]
