@@ -1,0 +1,16 @@
+.minecraft/config
+.minecraft/coremods
+.minecraft/crash-reports
+.minecraft/defaultconfigs
+.minecraft/logs
+.minecraft/options.txt
+.minecraft/realms_persistence.json
+.minecraft/resourcepacks
+.minecraft/saves
+.minecraft/schematics
+.minecraft/screenshots
+.minecraft/server-resource-packs
+.minecraft/shaderpacks
+.minecraft/texturepacks
+.minecraft/usercache.json
+.minecraft/usernamecache.json

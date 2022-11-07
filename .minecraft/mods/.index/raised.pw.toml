@@ -1,0 +1,14 @@
+name = "Raised"
+filename = "raised-forge-1.19.2-1.1.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/nCQRBEiR/versions/icDLnuB4/raised-forge-1.19.2-1.1.3.jar"
+hash-format = "sha512"
+hash = "fbbb3dbd530ad1f677e89f617e920205be2295f5e839e4a81f5f9bbad9064bfea281725ac486ae514a32b1db050e79a358a9f508003d0f98c0419ac31359d80a"
+
+[update]
+[update.modrinth]
+mod-id = "nCQRBEiR"
+version = "icDLnuB4"

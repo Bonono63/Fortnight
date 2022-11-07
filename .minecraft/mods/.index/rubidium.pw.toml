@@ -1,0 +1,14 @@
+name = "Rubidium"
+filename = "rubidium-0.6.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/4ZqxOvjD/versions/0.6.1/rubidium-0.6.1.jar"
+hash-format = "sha512"
+hash = "6759a2fe736e1350776f16e4560087698d9bbebea6596e60fba8d6e5179aff465123c18b8149e7092a52f58982755d7f6e1b41942482ebe647f66f011335243c"
+
+[update]
+[update.modrinth]
+mod-id = "4ZqxOvjD"
+version = "w6asrex4"
